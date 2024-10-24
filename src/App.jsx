@@ -31,7 +31,7 @@ import WishList from "./Component/WishList/WishList";
 
 // createHashRouter => Server Side Rendering
 // createBrowserRouter => Client Side Rendering
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <Layout />,
