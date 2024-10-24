@@ -66,7 +66,6 @@ export default function GetAllOrders() {
           ))}
         </div>
     </section>
-
 </>
 
 
